@@ -1,0 +1,17 @@
+
+0
+java:S1220""Move this file to a named package.
+m
+java:S3252'"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(³ú®ÿÿÿÿÿ8ì¡šÚá0
+g
+java:S3252("JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ŠåÔâ8ï¡šÚá0
+i
+java:S3252)"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ÁĞ¤·ÿÿÿÿÿ8ñ¡šÚá0
+j
+java:S3252*"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8ô¡šÚá0
+e
+java:S3252+"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(Ã»¬8ö¡šÚá0
+ƒ
+java:S3252,"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(ÉÄù«şÿÿÿÿ8ø¡šÚá0
+m
+java:S3252-"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(µù¦©8ú¡šÚá0
